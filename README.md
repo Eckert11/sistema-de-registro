@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner: 
 
 ```ǹpm install react```
+
+Sistema de Registro 2
